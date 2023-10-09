@@ -1,0 +1,24 @@
+In windows: 
+
+1. Open DISKPART in admin mode
+
+2. Enter the following commands: 
+-> LIST DISK
+
+3. And select the usb drive
+-> SELECT DISK 1
+
+4. Clean disk
+-> CLEAN
+
+5. Create a primary partition
+-> CREATE PARTITION PRIMARY
+
+6. Activate it
+-> ACTIVE
+
+7. Format the disk in NTFS
+-> FORMAT FS=NTFS QUICK
+
+8. Assign a drive letter 
+-> ASSIGN 

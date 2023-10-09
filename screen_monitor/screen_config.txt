@@ -1,0 +1,48 @@
+ ____________________________
+|                            |
+|        BEST SETTINGS       |
+|____________________________|
+
+GAMING 
+    Game Mode -> Premium Color
+    Night Vision -> OFF
+    Response Time -> Fast
+    MPRT -> OFF
+    Refresh Rate -> OFF
+    Alarm Clock -> OFF
+    Screen Assistance -> None
+    Adaptative-Sync -> OFF
+
+PROFESSIONAL
+    Pro Mode -> User
+    Low Blue Light -> OFF
+    HDCR -> OFF
+    MPRT -> OFF
+    Image Enhancement -> OFF
+
+IMAGE
+    Brightness -> 40
+    Contrast -> 70 
+    Sharpness -> 0
+    Color Temperature -> Normal
+    Screen Size -> Auto
+
+INPUT SOURCE 
+    HDMI 1
+    Auto Scan -> OFF
+
+NAVI KEY 
+    Up -> Game Mode
+    Down -> Screen Assistance
+    Left -> Alarm Clock
+    Right -> Input Source
+
+SETTINGS
+    Language -> English
+    Transparency -> 0
+    OSD Timeout -> 20
+    RGB LED -> OFF
+    Power Button -> OFF
+    Info On Screen -> OFF
+    HDMI CEC -> OFF
+    Reset
